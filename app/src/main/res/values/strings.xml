@@ -2,5 +2,6 @@
     <string name="app_name">Calculator</string>
     <string name="grade_1">Grade 1</string>
     <string name="grade_2">Grade 2</string>
-    <string name="number_of_absences">Number of Absences</string>
+    <string name="number_of_absences">Number of absences</string>
+    <string name="button">Calculate</string>
 </resources>
